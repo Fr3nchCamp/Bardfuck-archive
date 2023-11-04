@@ -11,5 +11,5 @@ CONTINUE THE PROJECT❔
 As a reminder, the project consisted of "hacking" Google AI, Bard with keywords and then we could subsequently control it to, for example, ask it to generate malicious code, etc.
 This worked at a time when Bard was extremely vulnerable and even after major corrections BardFuck continued to work, at present it still works, but is no longer updated.**
 
-
+ORGININAL BARDFUCK ORGANIZATION : https://github.com/BardFuck/CheatSheet
 
