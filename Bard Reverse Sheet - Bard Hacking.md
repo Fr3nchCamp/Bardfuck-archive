@@ -1,3 +1,5 @@
+Texte écrit par Arthus Albini (modification soudaine suite à un partage public du repos dans la méconaiscance de mon pseudo)
+
 # 0.Introduction
 
 Bard est une ia collaborative développer par Google et propulsé par PaLM2 et est en phase expérimental, et est disponible en libre acces sur internet.
